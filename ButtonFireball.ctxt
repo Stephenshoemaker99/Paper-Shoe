@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ButtonFireball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ButtonFireball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ButtonFireball()
+comment2.params=
+comment2.target=boolean\ isPressed()
+comment3.params=producer\ target
+comment3.target=void\ go(Character,\ Character)
+comment4.params=producer
+comment4.target=void\ go(Character)
+numComments=5

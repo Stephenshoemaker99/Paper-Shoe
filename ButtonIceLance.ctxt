@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ButtonIceLance
+comment1.params=
+comment1.target=ButtonIceLance()
+comment2.params=producer\ world
+comment2.target=void\ go(Character,\ Battlefield)
+comment3.params=producer\ target
+comment3.target=void\ go(Character,\ Character)
+comment4.params=producer
+comment4.target=void\ go(Character)
+numComments=5

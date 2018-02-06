@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Health
+comment1.params=
+comment1.target=Health()
+comment10.params=percent
+comment10.target=void\ currentPercentToCurrent(double)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=max
+comment2.target=Health(int)
+comment3.params=
+comment3.target=double\ getCurrent()
+comment4.params=
+comment4.target=double\ getMax()
+comment5.params=newCurrent
+comment5.target=void\ setCurrent(double)
+comment6.params=newMax
+comment6.target=void\ setMax(int)
+comment7.params=remove
+comment7.target=void\ removeCurrent(double)
+comment8.params=remove
+comment8.target=void\ removeMax(int)
+comment9.params=percent
+comment9.target=void\ maxPercentToCurrent(double)
+numComments=12

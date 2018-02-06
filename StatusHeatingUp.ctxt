@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StatusHeatingUp
+comment1.params=initialAffCharacter
+comment1.target=StatusHeatingUp(Character)
+comment2.params=
+comment2.target=int\ tickUp()
+comment3.params=
+comment3.target=int\ tick()
+numComments=4
