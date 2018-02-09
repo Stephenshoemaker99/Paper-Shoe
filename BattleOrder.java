@@ -25,8 +25,8 @@ public class BattleOrder extends Actor {
 
     public static List<Character> organizeOrder(List<Character> input) {
         int length = input.size();//bubblesort method 
-        for (int index = 0; index < length - 1; index++) {
-            for (int secondIndex = 0; secondIndex < length - index - 1; secondIndex++) {
+        for (int secondIndex = 0; secondIndex < length - 1; secondIndex++) {
+            for (int index = 0; index < length - secondIndex - 1; secondIndex++) {
                 if (input.get(secondIndex).getDexterity() > input.get(index).getDexterity()) {
                     Character stored = input.get(secondIndex);
                     input.set(secondIndex, input.get(index));

@@ -1,5 +1,5 @@
 #Greenfoot properties
-#Tue Feb 06 08:03:40 PST 2018
+#Thu Feb 08 19:00:18 PST 2018
 target16.name=Key
 dependency35.to=Battlefield
 target2.name=Order
@@ -38,7 +38,7 @@ dependency8.type=UsesDependency
 dependency5.from=Player
 target12.y=0
 target12.x=0
-editor.fx.0.height=739
+editor.fx.0.height=0
 project.charset=UTF-8
 dependency40.to=BattleOrder
 target12.typeParameters=
@@ -163,12 +163,12 @@ dependency26.from=ButtonFireball
 class.Status.superclass=greenfoot.Actor
 target4.type=ClassTarget
 dependency33.from=Button
-editor.fx.0.y=100
+editor.fx.0.y=0
 dependency36.type=UsesDependency
-editor.fx.0.x=552
+editor.fx.0.x=0
 dependency11.to=Health
 target6.height=50
-editor.fx.0.width=816
+editor.fx.0.width=0
 dependency32.to=Character
 dependency5.type=UsesDependency
 dependency2.from=Player
