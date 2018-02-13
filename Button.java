@@ -8,12 +8,12 @@ import greenfoot.*; // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
  */
 public abstract class Button extends Actor {
     private Ability ability;
-    private GreenfootImage thumbnail;
+    private GreenfootImage image;
     private boolean isPressed;
 
     public Button(Ability initialAbility) {
         ability = initialAbility;
-        thumbnail = ability.getImage();
+        image = ability.getImage();
 
     }
 
